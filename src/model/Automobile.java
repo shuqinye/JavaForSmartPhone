@@ -31,7 +31,6 @@ public class Automobile implements Serializable {
 		
 		for (int i = 0; i < setSize; ++i) {
 			opSets[i] = new OptionSet(opSizes[i]);
-//			for (int j = 0; j < opSizes[i]; ++j) 
 		}
 
 			
